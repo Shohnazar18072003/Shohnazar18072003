@@ -5,7 +5,7 @@
 
 
 
-### Follow Me
+## Follow Me
 
 [![Telegram](https://img.shields.io/badge/-Telegram-082032?style=for-the-badge&logo=Telegram&logoColor=#26A5E4)](https://t.me/Shohnazar_blog)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-082032?style=for-the-badge&logo=LinkedIn&logoColor=0A66C2)](https://www.linkedin.com/in/shohnazarabdusalomov/)
